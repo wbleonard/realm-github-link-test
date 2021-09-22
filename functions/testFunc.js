@@ -12,7 +12,7 @@ exports = function(arg){
     To call other named functions:
     var result = context.functions.execute("function_name", arg1, arg2);
 
-    Try running in the console below.
+    Try running in the console below...
   */
   return {arg: arg};
 };
